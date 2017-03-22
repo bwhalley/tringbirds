@@ -1,19 +1,18 @@
 # tringbirds
-Google Apps Script Wrapper for the Adroll API
+Google Apps Script Wrapper for the LearnUpon API
 
 ## Installation
 
-Open a Google Sheets doc. Tools -> Script Editor. Copy/paste the complete code from adroll.gs into the window, hit save, close. Refresh your doc. 
+Open a Google Sheets doc. Tools -> Script Editor. Copy/paste the complete code from learnupon.gs into the window, hit save, close. Refresh your doc. 
 
 ## Usage
 
 Some functions are now available to you:
 
-adrollOrganizationData(user,password)
-adrollCampaignData(user,password,startDate,endDate)
+
 more to come
 
-Put your adroll username and password in a a field, hide the row/column if you want to. 
+Put your learnupon api user and key in a a field, hide the row/column if you want to. Don't check it in here. 
 
 ## Contributing
 
@@ -26,6 +25,7 @@ Put your adroll username and password in a a field, hide the row/column if you w
 ## History
 
 September 15th 2016: It began
+March 22nd 2017: I tried harder.
 
 ## Credits
 
